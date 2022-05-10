@@ -1,0 +1,161 @@
+@media screen and (max-width:540px) {
+  /* Slider */
+  .slider-song-1 img{
+    width: 100px;
+    transition: width 1s;
+
+  }
+  .slider-song-1{
+    padding: 0%;
+  }
+  .slider-song-1 img:hover{
+    width: 120px;
+  }
+  #audio-img-name-author{
+    /* border: 1px solid green; */
+    display: none;
+  }
+  #audio-heart-ban{
+    /* border: 1px solid green; */
+    display: none;
+  }
+  /* latest Release */
+  #audio-icons-sound{
+    display: none;
+  }
+  #audio-widget-time{
+    /* border: 1px solid white; */
+    padding:0px 20px 0px 20px;
+  }
+  #audio-widget{
+    /* border: 1px solid white; */
+    padding:0px 50px 0px 50px;
+
+  }
+  .vol-range{
+    padding:11px 0px 0px 0px;
+    /* border: 1px solid red; */
+  }
+  #audio-time input[type="range"]{
+    width: 70vw;
+  }
+  .para{
+    display: none;
+  }
+  .aside-content-desc{
+    display: none;
+  }
+  .aside-div{
+    width: 28vw;
+    margin: 2px;
+    height: 120vw;
+  }
+
+
+}
+ @media screen and (max-width:430px){
+  /* body{
+    background-color: orange;
+  } */
+  .header-nav{
+      padding:0%;
+      margin: 0;
+      /* border: 1px solid green; */
+
+  }
+  .header-nav a{
+      font-size: 20px;
+      padding: 5px;
+      margin: 0px;
+  }
+  .latest-release-header h1{
+    font-size: 25px;
+  }
+  .latest-release-content-des{
+    display:none;
+  }
+
+  .popular-artists-header h1{
+    font-size: 25px;
+  }
+  .latest-english-header h1{
+    font-size: 25px;
+
+  }
+  .latest-hindi-header h1{
+    font-size: 25px;
+  }
+  #audio-img-name-author{
+    /* border: 1px solid green; */
+    display: none;
+  }
+  #audio-heart-ban{
+    /* border: 1px solid green; */
+    display: none;
+  }
+
+  #audio-widget-time{
+    /* border: 1px solid white; */
+    padding:0px 10px 0px 0px;
+  }
+  #audio-widget{
+    /* border: 1px solid white; */
+    padding:0px 10px 0px 0px;
+
+  }
+
+  .vol-range{
+    padding:11px 0px 0px 0px;
+    /* border: 1px solid red; */
+  }
+  #audio-time input[type="range"]{
+    width: 70vw;
+  }
+
+  #audio-icons-sound{
+    display: none;
+  }
+
+
+
+}
+@media screen and (max-width:430px){
+  .header-nav{
+      padding-top:20px;
+      margin: 0;
+      /* border: 1px solid green; */
+
+  }
+  .header-nav a{
+      font-size: 18px;
+      padding: 5px;
+      margin: 0px;
+  }
+  .header-search{
+     display: none;
+  }
+  .login-img{
+    display: none;
+  }
+  #audio-widget-time{
+    /* border: 1px solid green; */
+    padding:0px 10px 0px 0px;
+
+
+  }
+  #audio-widget{
+    /* border: 1px solid white; */
+    padding:0px 10px 0px 0px;
+
+  }
+
+  .vol-range{
+    padding:11px 0px 0px 0px;
+    /* border: 1px solid red; */
+  }
+  #audio-time input[type="range"]{
+    width: 70vw;
+  }
+
+
+}
